@@ -1,0 +1,115 @@
+{
+  "serverName": "Rivals Valley",
+  "description": "Semi Roleplay Server",
+  "discordUrl": "https://discord.gg/pSD8mb5wKW",
+  "tebexUrl": "Your Url Here",
+
+  "discordCard": {
+    "title": "Rivals Valley",
+    "description": "Join Rivals Valley Discord Fivem #1 Server Today",
+    "url": "https://discord.gg/pSD8mb5wKW"
+  },
+
+  "team": [
+    {
+      "name": "Empire",
+      "role": "Founder",
+      "avatar": "https://cdn.discordapp.com/attachments/857810159401172992/1108827971193671730/188f2a4c5a8e1288f920651a46751868.gif?ex=6a4bf805&is=6a4aa685&hm=195b0fd7b6cc13b794aa9254e7b2c3ed76c2de70a7e9f184333ba5beae5a89b0&"
+    }
+  ],
+
+  "rules": [
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here"
+  ],
+
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/1480718297635750110/1523423197393977374/ChatGPT_Image_Jul_4_2026_02_04_50_PM.png?ex=6a4c0dea&is=6a4abc6a&hm=76b9a44c8ceb03d78fbc26175f214943ce186a69b77d4d12b93f308d12d3deb6&",
+    "https://cdn.discordapp.com/attachments/1480718297635750110/1523423197393977374/ChatGPT_Image_Jul_4_2026_02_04_50_PM.png?ex=6a4c0dea&is=6a4abc6a&hm=76b9a44c8ceb03d78fbc26175f214943ce186a69b77d4d12b93f308d12d3deb6&",
+    "https://cdn.discordapp.com/attachments/1480718297635750110/1523423197393977374/ChatGPT_Image_Jul_4_2026_02_04_50_PM.png?ex=6a4c0dea&is=6a4abc6a&hm=76b9a44c8ceb03d78fbc26175f214943ce186a69b77d4d12b93f308d12d3deb6&",
+    "https://cdn.discordapp.com/attachments/1480718297635750110/1523423197393977374/ChatGPT_Image_Jul_4_2026_02_04_50_PM.png?ex=6a4c0dea&is=6a4abc6a&hm=76b9a44c8ceb03d78fbc26175f214943ce186a69b77d4d12b93f308d12d3deb6&"
+  ],
+
+  "music": [
+
+        {
+      "title": "BossMan Dlow",
+      "artist": "Motion Part",
+      "cover": "https://cdn.discordapp.com/attachments/1480718297635750110/1523423197393977374/ChatGPT_Image_Jul_4_2026_02_04_50_PM.png?ex=6a4c0dea&is=6a4abc6a&hm=76b9a44c8ceb03d78fbc26175f214943ce186a69b77d4d12b93f308d12d3deb6&",
+      "src": "https://cdn.discordapp.com/attachments/1480718297635750110/1523478138594787569/BossMan_Dlow_-_Motion_Party_Official_Music_Video-1920x1080-avc1-mp4a.mp4?ex=6a4c4115&is=6a4aef95&hm=dbe0102e09557c6cf3f864456aed05853d91bde7d02f989a3a1e99cb86463199&"
+    },
+
+    
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    }
+  ]
+}
